@@ -1,4 +1,4 @@
-package com.isllam.noteapp
+package com.isllam.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
